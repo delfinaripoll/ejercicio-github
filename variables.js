@@ -1,1 +1,1 @@
-soy una variable
+variable
